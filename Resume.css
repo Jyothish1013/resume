@@ -18,7 +18,7 @@ a{
 
 .div1{
     margin-left: 40px;
-    width: auto;
+    margin: auto auto;
 }
 
 .div1 p{
@@ -41,17 +41,10 @@ a{
 }
 
 .img{
-    height: 150px;
-    width: 150px;
-    margin-left: 20px;
-    margin-top: 20px;
+    height: 200px;
+    width: 200px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 50%;
-}
-
-.image-contaner{
-    display: block;
-    margin: auto auto;
 }
 
 .one{
