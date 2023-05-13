@@ -2,6 +2,10 @@ body{
     margin: 20px;
 }
 
+a{
+    text-decoration: none;
+}
+
 .main{
     background-color: #3A5385;
     display: flex;
@@ -10,6 +14,14 @@ body{
     word-spacing: 1px;
     justify-content: space-between;
     font-family: 'Vollkorn', serif;
+}
+
+.div1{
+    margin-left: 40px;
+}
+
+.div1 p{
+    font-size: 10px;
 }
 
 .link{
@@ -22,9 +34,14 @@ body{
     color: black;
 }
 
+.image-contaner{
+    display: block;
+    margin: auto auto;
+}
+
 .img{
-    height: 115px;
-    width: 115px;
+    height: 150px;
+    width: 150px;
     margin-left: 20px;
     margin-top: 20px;
     border: 1px solid rgb(0, 0, 0);
