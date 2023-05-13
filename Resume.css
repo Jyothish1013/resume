@@ -31,6 +31,11 @@ body{
     border-radius: 50%;
 }
 
+.image-contaner{
+    display: block;
+    margin: auto auto;
+}
+
 .one{
     margin: 20px 40px;
     display: flex;
