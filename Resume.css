@@ -20,7 +20,7 @@ a{
 
 .div1{
     margin-left: 40px;
-    margin: auto auto;
+    margin: auto 100px auto 80px;
 }
 
 .div1 p{
